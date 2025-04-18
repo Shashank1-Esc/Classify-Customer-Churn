@@ -73,4 +73,5 @@ Visual barplot showing which features impact customer churn the most (e.g., `ten
 
 ## 📂 How to Use
 
-1. Clone this repository  
+1. Clone this repository
+   git clone https://github.com/yourusername/classify-customer-churn.git
