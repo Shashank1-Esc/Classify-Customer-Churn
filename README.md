@@ -75,3 +75,36 @@ Visual barplot showing which features impact customer churn the most (e.g., `ten
 
 1. Clone this repository
    git clone https://github.com/yourusername/classify-customer-churn.git
+
+### Result
+          precision    recall  f1-score   support
+
+       0       0.85      0.89      0.87       998
+       1       0.64      0.55      0.59       351
+
+accuracy                           0.80      1349
+
+
+### 🔲 **Confusion Matrix Summary**
+|                | Predicted No | Predicted Yes |
+|----------------|--------------|---------------|
+| Actual No      |     886      |      112      |
+| Actual Yes     |     157      |      194      |
+
+> The model performs well for predicting customers who **stay**, and it gives reasonable results for identifying churners, though improvement could be made with advanced models.
+
+---
+
+## 📈 Output Samples
+
+### 🔲 Confusion Matrix
+Helps us understand the model's performance:
+
+- True Positives ✅
+- True Negatives ✅
+- False Positives ❌
+- False Negatives ❌
+
+
+---
+
