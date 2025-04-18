@@ -85,6 +85,10 @@ Visual barplot showing which features impact customer churn the most (e.g., `ten
 accuracy                           0.80      1349
 
 
+![Screenshot 2025-04-18 152040](https://github.com/user-attachments/assets/67971520-3202-4162-8fab-4c18dc01a35a)
+![Screenshot 2025-04-18 152032](https://github.com/user-attachments/assets/6617bce7-497c-44b1-b005-2c41b768f8a5)
+
+
 ### 🔲 **Confusion Matrix Summary**
 |                | Predicted No | Predicted Yes |
 |----------------|--------------|---------------|
